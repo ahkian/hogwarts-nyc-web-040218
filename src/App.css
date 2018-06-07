@@ -64,7 +64,7 @@ ul {
 
 .subtleText {
   color: #D1D1D1;
-  font-size: .75em; 
+  font-size: .75em;
 }
 
 
@@ -131,6 +131,10 @@ ul {
 .footer {
   padding: 1%;
   clear: both;
+}
+
+.hidden {
+  visibility: hidden;
 }
 
 
